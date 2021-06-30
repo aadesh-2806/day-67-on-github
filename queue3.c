@@ -2,7 +2,7 @@
 #define N 5
 void initq(int *f,int *r) 
 {
-	*f=0;
+	*f=0; 
 	*r=0;
 } 
 void enterq(int *a,int x,int *r)
