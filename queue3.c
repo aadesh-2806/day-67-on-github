@@ -1,6 +1,6 @@
 #include<stdio.h>
 #define N 5
-void initq(int *f,int *r)
+void initq(int *f,int *r) 
 {
 	*f=0;
 	*r=0;
